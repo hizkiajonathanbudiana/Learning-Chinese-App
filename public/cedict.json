@@ -1,0 +1,36 @@
+[
+    {
+        "simplified": "有",
+        "traditional": "有",
+        "pinyin": "yǒu",
+        "definitions": [
+            "to have",
+            "to exist",
+            "to be (there is/are)",
+            "to obtain",
+            "to possess"
+        ]
+    },
+    {
+        "simplified": "话",
+        "traditional": "話",
+        "pinyin": "huà",
+        "definitions": [
+            "word",
+            "talk",
+            "speech",
+            "language",
+            "dialect"
+        ]
+    },
+    {
+        "simplified": "的",
+        "traditional": "的",
+        "pinyin": "de",
+        "definitions": [
+            "of",
+            "'s (possessive particle)",
+            "used after an attribute"
+        ]
+    }
+]
